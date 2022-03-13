@@ -1,6 +1,6 @@
 # Proteus
 
-An API for geospatial prediction of fishing grounds.
+An API for geospatial prediction of fishing grounds. Just clone the repo and run main.py locally. I need sleep and will fix the Heroku issues in a bit.
 
 ### https://proteussih.herokuapp.com/predict
 
