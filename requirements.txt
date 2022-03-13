@@ -1,0 +1,6 @@
+flask==2.0.3
+joblib==1.1.0
+numpy==1.22.2
+leslieDelury==0.0.2
+pandas==1.4.1
+flask_restful==0.3.6

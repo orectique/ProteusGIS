@@ -7,7 +7,6 @@ import numpy as np
 from leslieDelury import popEstimate
 
 import pandas as pd
-import ast
 
 app = Flask(__name__)
 api = Api(app)
